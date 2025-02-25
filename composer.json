@@ -1,0 +1,17 @@
+{
+    "name": "vendor/test",
+    "require-dev": {
+        "kunalvarma05/dropbox-php-sdk": "^0.5.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Vendor\\Test\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "fab"
+        }
+    ],
+    "require": {}
+}
