@@ -16,5 +16,5 @@ $dropbox = new Dropbox($app);
 $authHelper = $dropbox->getAuthHelper();
 
 //Callback URL
-$callbackUrl = "https://test-gd-image.test/";
+$callbackUrl = "https://test-gd-image.test/"; // Remplacer par votre URL - Replace with your URL
 ?>

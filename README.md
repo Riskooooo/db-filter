@@ -24,6 +24,8 @@ Pour tester et utiliser cette application, vous devez disposer d'une **clé d'ac
 
 Pour tester et utiliser cette application, vous devez aussi disposer **de fichier défini sur votre espace dropbox**. Il vous faut renseigner les bons chemins vers les dossiers dans le fichier image.php aux lignes suivantes : 97, 281, 282, 287
 
+Pour finir, vous devez aussi changer **l'URL de "Callback" dans le fichier "header.php"** sur la ligne 19.
+
 ## Technologies utilisées
 
 - PHP
